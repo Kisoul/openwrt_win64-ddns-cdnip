@@ -14,6 +14,9 @@ curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && b
 
 小白们可以自己搞一个时时更新多个优选IP的域名，客户端地址都可用此优选域名。软路由脚本移植到了电脑端，优选IP的主要功能全部支持。利用反代功能，在无代理的情况下也支持Telegram机器人通知，也支持Pushplus微信通知，支持自定义批量优选IP上传到域名解析与删除解析记录（支持IPV4与IPV6混合）
 
+
+
+
 视频教程（先看）：openwrt软路由优选IP终极小白教程第一期：一键脚本支持优选官方IP、反代IP、13个端口随便选、有无域名都支持TG通知，x-ui与CF vless联合演示，全网独家解读优选官方IP与反代IP的各自特点（https://youtu.be/jro6gYnfsVY?si=eV8fisxOesKhgUNq）
 
 
